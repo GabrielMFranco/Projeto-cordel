@@ -54,6 +54,7 @@ main div > p{
 }
 main > p{
     font-size:3vw ;
+    color:black;
     padding-top: 10vh;
     padding-bottom:10vh;
     padding-left: 40px;
